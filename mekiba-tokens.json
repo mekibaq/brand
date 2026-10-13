@@ -1,0 +1,16 @@
+{
+  "color": {
+    "ink":    { "value": "#060608", "role": "background" },
+    "fg":     { "value": "#ECE8E1", "role": "text, logo ring and core" },
+    "mute":   { "value": "#8D8A85", "role": "secondary text" },
+    "lime":   { "value": "#D2FE05", "role": "accent, logo orbit, colored backgrounds" },
+    "ice":    { "value": "#9FD8FF", "role": "support" },
+    "violet": { "value": "#B7A4FF", "role": "support" },
+    "mint":   { "value": "#7BE3B6", "role": "support, positive" },
+    "red":    { "value": "#F2647A", "role": "negative only" }
+  },
+  "font": {
+    "text": { "family": "Roboto Condensed", "weights": [300, 400, 500, 600] },
+    "code": { "family": "Geist Mono", "weights": [400, 500] }
+  }
+}

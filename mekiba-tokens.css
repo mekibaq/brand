@@ -1,0 +1,13 @@
+/* mekiba color and type tokens · https://mekiba.si/docs/#identity-spec */
+:root{
+  --mkb-ink:#060608;      /* background */
+  --mkb-fg:#ECE8E1;       /* text, logo ring and core */
+  --mkb-mute:#8D8A85;     /* secondary text */
+  --mkb-lime:#D2FE05;     /* accent, logo orbit, colored backgrounds */
+  --mkb-ice:#9FD8FF;      /* support */
+  --mkb-violet:#B7A4FF;   /* support */
+  --mkb-mint:#7BE3B6;     /* support, positive */
+  --mkb-red:#F2647A;      /* negative only */
+  --mkb-font-text:"Roboto Condensed","Arial Narrow",Arial,sans-serif;
+  --mkb-font-code:"Geist Mono",ui-monospace,Menlo,Consolas,monospace;
+}
